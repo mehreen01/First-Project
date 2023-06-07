@@ -1,4 +1,12 @@
-# First-Project
-Welcome to the First-Project GitHub repository! This repository contains the code for my recently developed website, which showcases my skills and expertise in web development.
-The codebase of the website is built using the latest web technologies and frameworks, including vue.js, node.js. It follows industry best practices and coding standards, ensuring clean, efficient, and maintainable code. The modular architecture of the codebase allows for easy scalability and future enhancements.
-I encourage you to clone this repository, explore the code, and provide feedback. Your valuable insights and suggestions are crucial in improving the website and enhancing its functionality. If you come across any issues or bugs, please feel free to raise them in the repository's issue tracker.
+#### to run app.vue file firstly install node.js 
+
+#### to install all packages (node_module, package.json, package-lock.json)
+
+npm install
+
+#### to run file on local host
+
+npm run start 
+
+
+
