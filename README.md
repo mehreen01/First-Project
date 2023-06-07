@@ -20,13 +20,25 @@ npm build
 
 node server.js
 
+#### for database install "mongodb"
+
+npm install
+
 #### unit testing install "jest"
 
 npm install
 
+#### for checking unit testing
+
+npm run jest
+
 #### intergrating testing install "supertest"
 
 npm install 
+
+#### for checking intergrating testing 
+
+npm run test 
 
 
 
