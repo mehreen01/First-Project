@@ -4,9 +4,9 @@
 
 npm install
 
-#### to run file on local host
+#### to run vue file on local host
 
-npm run start 
+npm run serve
 
 
 
