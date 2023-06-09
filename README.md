@@ -1,18 +1,20 @@
-#### to run app.vue file firstly install node.js 
-
-#### to install all packages (node_module, package.json, package-lock.json)
+#### to install dependencies 
 
 npm install
 
-#### to run vue file on local host
+#### to compile your application
 
 npm run serve
+
+#### to start your application on browser
+
+npm run install
 
 #### connect frontend to backend install "express"
 
 npm install
 
-#### if you change in frontend files
+#### if you update in frontend files
 
 npm build
 
@@ -30,15 +32,29 @@ npm install
 
 #### for checking unit testing
 
-npm run jest
+npm run test
 
-#### intergrating testing install "supertest"
+#### for intergrating testing install "supertest"
 
 npm install 
 
 #### for checking intergrating testing 
 
 npm run test 
+
+#### for pack artifactes 
+
+npm pack
+
+#### enables unnecessary development files from the artifact
+
+.npmignore
+
+#### Leveraging Dev Dependencies
+
+npm install --omit=dev
+
+
 
 
 
